@@ -206,7 +206,7 @@ _MODEL_SPECS = {
         "bulb_type": BulbType.White,
     },
     "lamp4": {
-        "color_temp": {"min": 2600, "max": 5000},
+        "color_temp": {"min": 2600, "max": 6500},
         "night_light": False,
         "background_light": False,
     },
