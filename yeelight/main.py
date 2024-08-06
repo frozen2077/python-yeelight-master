@@ -195,7 +195,7 @@ _MODEL_SPECS = {
         "background_light": False,
     },
     "lamp1": {
-        "color_temp": {"min": 2700, "max": 5000},
+        "color_temp": {"min": 2700, "max": 6500},
         "night_light": False,
         "background_light": False,
     },
